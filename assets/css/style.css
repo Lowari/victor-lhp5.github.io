@@ -25,7 +25,7 @@ body{
       font-size: 2rem;
     }
     #fond{
-   
-        background-color: grey;
+        position: relative;
+        background-color: blue;
     }
   }
