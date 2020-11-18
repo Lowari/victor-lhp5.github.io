@@ -27,7 +27,7 @@ const spanResult = document.getElementById('spanResult');
 
 //ajouter du texte a nos spans
 numériqueArray.forEach(element => {
-    element.classList.add('buttonHeight', 'fontSize', 'm-1');
+    element.classList.add('buttonHeight', 'fontSize','m-1');
     element.addEventListener('click', () => {
         if (bojeuu == false) {
             firstNumberElement.textContent += element.textContent;
