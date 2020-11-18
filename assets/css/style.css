@@ -22,11 +22,15 @@ body{
 }
 @media (max-width: 576px) {
     .fontSizes {
-      font-size: 2rem;
+      font-size: 1rem;
     }
+    .fontSize{
+        font-size: 1rem;
+    }
+    .h
     #fond{
         position: relative;
-        background-color: blue;
+        background-color: grey;
         bottom: 6rem;
     }
   }
