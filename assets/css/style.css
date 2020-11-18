@@ -24,4 +24,8 @@ body{
     .fontSizes {
       font-size: 2rem;
     }
+    #fond{
+   
+        background-color: grey;
+    }
   }
