@@ -27,5 +27,6 @@ body{
     #fond{
         position: relative;
         background-color: blue;
+        bottom: 6rem;
     }
   }
